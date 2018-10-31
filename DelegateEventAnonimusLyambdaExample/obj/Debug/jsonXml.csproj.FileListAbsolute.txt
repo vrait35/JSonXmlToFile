@@ -1,0 +1,9 @@
+C:\Users\anuar\source\repos\DelegateEventAnonimusLyambdaExample\DelegateEventAnonimusLyambdaExample\bin\Debug\DelegateEventAnonimusLyambdaExample.exe.config
+C:\Users\anuar\source\repos\DelegateEventAnonimusLyambdaExample\DelegateEventAnonimusLyambdaExample\bin\Debug\DelegateEventAnonimusLyambdaExample.exe
+C:\Users\anuar\source\repos\DelegateEventAnonimusLyambdaExample\DelegateEventAnonimusLyambdaExample\bin\Debug\DelegateEventAnonimusLyambdaExample.pdb
+C:\Users\anuar\source\repos\DelegateEventAnonimusLyambdaExample\DelegateEventAnonimusLyambdaExample\bin\Debug\Newtonsoft.Json.dll
+C:\Users\anuar\source\repos\DelegateEventAnonimusLyambdaExample\DelegateEventAnonimusLyambdaExample\bin\Debug\Newtonsoft.Json.xml
+C:\Users\anuar\source\repos\DelegateEventAnonimusLyambdaExample\DelegateEventAnonimusLyambdaExample\obj\Debug\jsonXml.csprojResolveAssemblyReference.cache
+C:\Users\anuar\source\repos\DelegateEventAnonimusLyambdaExample\DelegateEventAnonimusLyambdaExample\obj\Debug\jsonXml.csproj.CoreCompileInputs.cache
+C:\Users\anuar\source\repos\DelegateEventAnonimusLyambdaExample\DelegateEventAnonimusLyambdaExample\obj\Debug\DelegateEventAnonimusLyambdaExample.exe
+C:\Users\anuar\source\repos\DelegateEventAnonimusLyambdaExample\DelegateEventAnonimusLyambdaExample\obj\Debug\DelegateEventAnonimusLyambdaExample.pdb
